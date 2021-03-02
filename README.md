@@ -8,3 +8,5 @@ Consiste en una Pokedex utilizando PokéApi.
 * Permite buscar pokemones por su nombre.
 * Permite seleccionar tus pokemones favoritos y almacenarlos en localStorage.
 ***
+
+![Captura de pantalla](https://raw.githubusercontent.com/nfpassarino/pokereact/master/screen.png)
